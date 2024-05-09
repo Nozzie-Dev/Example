@@ -43,6 +43,8 @@ let App = () => {
             />
           </div>
         )}
+        <p>Source code is on Noziphezinhle Nzimande's <a href="https://github.com/Nozzie-Dev/React-WeatherApp">GitHub</a>.</p>
+
       </div>
     </div>
   );
